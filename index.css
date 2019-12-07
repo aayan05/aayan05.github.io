@@ -1,0 +1,72 @@
+body {
+
+  background-color: white;
+  font-family: "Staatliches";
+  color: black;
+}
+
+.top{
+  background-color: black;
+  color: white;
+  font-size: 36px;
+  font-family: "Pacifico", cursive;
+  position: fixed;
+width: 100%;
+top: 0;
+z-index: 2;
+  }
+
+.intro {
+
+  margin-top: 100px;
+
+  padding-left: 50px;
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
+}
+
+.into {
+  margin-left: 75px;
+}
+#into2   {
+
+  font-family: "Baskervville", serif;
+  font-size: 24px;
+  text-align:  justify;
+  padding-left: 50px;
+
+}
+.imgs{
+  align-content: center;
+  padding-left:  100px;
+}
+
+.head{
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
+margin-bottom: 20px;
+}
+
+.memeb{
+  background-color: black;
+  color: white;
+  width: 100%;
+}
+.head1 {
+  text-align:center;
+  display: inline;
+  width:100px;
+  white-space: pre;
+  margin-right: 50px;
+  margin: 20px 20px 20px 20px;
+
+}
+.head1 td {
+  margin: 20px 20px 20px 20px;
+}
+
+.song{
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
