@@ -1,8 +1,8 @@
 body {
 
-  background-color: white;
+
   font-family: "Staatliches";
-  color: black;
+
 }
 
 .top{
@@ -34,6 +34,7 @@ z-index: 2;
   font-size: 24px;
   text-align:  justify;
   padding-left: 50px;
+  margin-left:50px;
 
 }
 .imgs{
@@ -60,7 +61,7 @@ margin-bottom: 20px;
   white-space: pre;
   margin-right: 50px;
   margin: 20px 20px 20px 20px;
-
+  background-image:
 }
 .head1 td {
   margin: 20px 20px 20px 20px;
@@ -69,4 +70,11 @@ margin-bottom: 20px;
 .song{
   margin-left: 50px;
   margin-bottom: 20px;
+}
+.BAR {
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+  z-index: 4;
 }
